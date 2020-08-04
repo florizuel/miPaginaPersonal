@@ -1,0 +1,3 @@
+actualizar la pagina hosteada;
+
+hacer que la barra de menu sea responsive (menu desplegable)
